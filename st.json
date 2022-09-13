@@ -1,8 +1,6 @@
 [
-    {"Marca":"PRUEBA 2","CATEGORIA":"MONITORES","WEB":"https://www.acer.com/ac/es/AR/content/home","CORREO":"https://www.acer.com/ac/es/AR/content/service-contact","TELEFONO":"0800-800-1610","TELEFONO2":"-"},
-     {"Marca":"PRUEBA 3","CATEGORIA":"MONITORES","WEB":"https://www.acer.com/ac/es/AR/content/home","CORREO":"https://www.acer.com/ac/es/AR/content/service-contact","TELEFONO":"0800-800-1610","TELEFONO2":"-"},
-    {"Marca":"PRUEBA 4","CATEGORIA":"MONITORES","WEB":"https://www.acer.com/ac/es/AR/content/home","CORREO":"https://www.acer.com/ac/es/AR/content/service-contact","TELEFONO":"0800-800-1610","TELEFONO2":"-"},
-     {"Marca":"PRUEBA 5","CATEGORIA":"MONITORES","WEB":"https://www.acer.com/ac/es/AR/content/home","CORREO":"https://www.acer.com/ac/es/AR/content/service-contact","TELEFONO":"0800-800-1610","TELEFONO2":"-"},
+    {"Marca":"MARCA","CATEGORIA":"CATEGORIA","WEB":"","CORREO":"","TELEFONO":"","TELEFONO2":""},
+    {"Marca":"PRUEBA 5","CATEGORIA":"MONITORES","WEB":"https://www.acer.com/ac/es/AR/content/home","CORREO":"https://www.acer.com/ac/es/AR/content/service-contact","TELEFONO":"0800-800-1610","TELEFONO2":"-"},
     {"Marca":"ACER","CATEGORIA":"MONITORES","WEB":"https://www.acer.com/ac/es/AR/content/home","CORREO":"https://www.acer.com/ac/es/AR/content/service-contact","TELEFONO":"0800-800-1610","TELEFONO2":"-"},
     {"Marca":"ACER","CATEGORIA":"PC NOTEBOOK","WEB":"https://www.acer.com/ac/es/AR/content/home","CORREO":"https://www.acer.com/ac/es/AR/content/service-contact","TELEFONO":"0800-800-1610","TELEFONO2":"-"},
     {"Marca":"AIWA","CATEGORIA":"AURICULARES","WEB":"https://www.aiwaelectronics.com.ar/","CORREO":"info@aiwaelectronics.com.ar","TELEFONO":"(011) 5365-6004","TELEFONO2":"0800 444 1212"},
@@ -287,7 +285,6 @@
     {"Marca":"XEROX","CATEGORIA":"IMPRESORAS","WEB":"https://www.xerox.com/es-ar/quienes-somos/contactanos","CORREO":"https://www.support.xerox.com/support","TELEFONO":" 0800-222-93769","TELEFONO2":"(011) 4703-7700"},
     {"Marca":"XTRIKE-ME","CATEGORIA":"ACCESORIOS ","WEB":"Mail: soporte@cca-t.com","CORREO":"Mail: soporte@cca-t.com","TELEFONO":"(011) 6091-1336 interno 2403","TELEFONO2":"-"},
     {"Marca":"X-VIEW","CATEGORIA":"ACCESORIOS CELULARES","WEB":"https://x-view.com/servicio-tecnico","CORREO":"-","TELEFONO":"0810-555-9843","TELEFONO2":"-"},
-    {"Marca":"CALICO","CATEGORIA":"PRUEBA INGRESO","WEB":"https://x-view.com/servicio-tecnico","CORREO":"-","TELEFONO":"0810-555-9843","TELEFONO2":"-"},
     {"Marca":"YELMO","CATEGORIA":"PEQUENOS APARATOS","WEB":"https://www.yelmo.com.ar/red-de-servicios","CORREO":" atencioncliente@firstrate.com.ar","TELEFONO":"(011) 4453-0371 / 0730","TELEFONO2":"-"}
     ]
     

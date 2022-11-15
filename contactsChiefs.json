@@ -2,64 +2,64 @@
 		"Punto": "1",
 		"Nombre": "San Isidro",
 		"Jefe": "Leonardo Pallito / Veronica Rodriguez",
-		"Celular": "+54 9 11 4160-3994",
+		"Celular": "1141603994",
 		"Mail": "leonardo_pallitto@carrefour.com"
 	},
 	{
 		"Punto": "2",
 		"Nombre": "Vte Lopez",
 		"Jefe": "Ayelen Mastrovicenzo",
-		"Celular": "(+54) 9 11 6401-5345",
-		"Mail": "Ayelen MASTROVICENZO <ayelen_mastrovicenzo@carrefour.com>"
+		"Celular": "1164015345",
+		"Mail": "ayelen_mastrovicenzo@carrefour.com"
 	},
 	{
 		"Punto": "5",
 		"Nombre": "Velez",
 		"Jefe": "Juan Manuel Garcia",
-		"Celular": "(+54) 9 11 5482-4452",
-		"Mail": "Juan Manuel GARCIA <juan_garcia@carrefour.com>"
+		"Celular": "1154824452",
+		"Mail": "juan_garcia@carrefour.com"
 	},
 	{
 		"Punto": "6",
 		"Nombre": "Salguero",
 		"Jefe": "Sandra Zaccari",
-		"Celular": "(+54) 9 11 - 3115-2211",
+		"Celular": "1131152211",
 		"Mail": "sandra_zaccari@gmail.com"
 	},
 	{
 		"Punto": "7",
 		"Nombre": "Quilmes",
 		"Jefe": "Walter Rivero",
-		"Celular": "+54 9 11 3429-0177",
+		"Celular": "1134290177",
 		"Mail": "walter_rivero@carrefour.com"
 	},
 	{
 		"Punto": "8",
 		"Nombre": "La Plata",
 		"Jefe": "Marcela UCCELLO",
-		"Celular": "(+54)9 221 616-9923",
-		"Mail": "Marcela UCCELLO <marcela_uccello@carrefour.com>"
+		"Celular": "2216169923",
+		"Mail": "marcela_uccello@carrefour.com"
 	},
 	{
 		"Punto": "9",
 		"Nombre": "Cordoba Colon",
 		"Jefe": "Diego Delgado",
-		"Celular": "(+54) 9 351 519-6190",
-		"Mail": "Diego Dario Delgado <diego_delgado@carrefour.com>"
+		"Celular": "3515196190",
+		"Mail": "diego_delgado@carrefour.com"
 	},
 	{
 		"Punto": "10",
 		"Nombre": "Tesei",
 		"Jefe": "Daniel Campos",
-		"Celular": "(+54) 9 11 6462-2440",
-		"Mail": "Daniel Alejandro CAMPOS <daniel_campos@carrefour.com>"
+		"Celular": "1164622440",
+		"Mail": "daniel_campos@carrefour.com"
 	},
 	{
 		"Punto": "11",
 		"Nombre": "San Miguel",
 		"Jefe": "Alejandro Martinez",
-		"Celular": "(+54) 9 11 5503-1653",
-		"Mail": "Alejandro Cristian MARTINEZ <alejandro_cristian_martinez@carrefour.com>"
+		"Celular": "1155031653",
+		"Mail": "alejandro_cristian_martinez@carrefour.com"
 	},
 	{
 		"Punto": "12",

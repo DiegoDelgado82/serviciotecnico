@@ -65,574 +65,574 @@
 		"Punto": "12",
 		"Nombre": "San Justo",
 		"Jefe": "Francisco Sorbara",
-		"Celular": "(+54) 9 11 6896-7234",
-		"Mail": "Francisco Ariel Sorbara <francisco_sorbara@carrefour.com>"
+		"Celular": "11 68967234",
+		"Mail": "francisco_sorbara@carrefour.com"
 	},
 	{
 		"Punto": "15",
 		"Nombre": "San Martin",
 		"Jefe": "Juan Jose Adimari",
-		"Celular": "(+54) 9 11 3013-1822",
-		"Mail": "Juan Jose ADIMARI <juan_jose_adimari@carrefour.com>"
+		"Celular": "11 30131822",
+		"Mail": "juan_jose_adimari@carrefour.com"
 	},
 	{
 		"Punto": "16",
 		"Nombre": "Monte Grande",
 		"Jefe": "Marcelo Martinez",
-		"Celular": "(+54) 9 11 5931-2674",
-		"Mail": "Marcelo Daniel MARTINEZ <marcelo_martinez@carrefour.com>"
+		"Celular": "11 59312674",
+		"Mail": "marcelo_martinez@carrefour.com"
 	},
 	{
 		"Punto": "17",
 		"Nombre": "Mendoza",
 		"Jefe": "Yamila Ivanna Miranda",
-		"Celular": "(+54) 9 2615 19-6871",
+		"Celular": "2615 196871",
 		"Mail": "yamila_miranda@carrefour.com"
 	},
 	{
 		"Punto": "18",
 		"Nombre": "Rosario",
 		"Jefe": "Enrique Rodriguez",
-		"Celular": "(+54) 9 11 6829-1317",
+		"Celular": "11 68291317",
 		"Mail": "enrique_rodriguez@carrefour.com"
 	},
 	{
 		"Punto": "20",
 		"Nombre": "Avellaneda",
 		"Jefe": "Mariano Ruiz",
-		"Celular": "(+54) 9 11 3591-4774",
-		"Mail": "Mariano Oscar RUIZ <mariano_ruiz@carrefour.com>"
+		"Celular": "11 35914774",
+		"Mail": "mariano_ruiz@carrefour.com"
 	},
 	{
 		"Punto": "21",
 		"Nombre": "Moreno",
 		"Jefe": "Silvia Torres",
-		"Celular": "(+54) 9 11 3159-0265",
-		"Mail": "Silvia Mabel Torres <silvia_torres@carrefour.com>"
+		"Celular": "11 31590265",
+		"Mail": "silvia_torres@carrefour.com"
 	},
 	{
 		"Punto": "22",
 		"Nombre": "Mar del Plata",
 		"Jefe": "Mariano Mancabelli",
-		"Celular": "(+54) 9 223 544-5998",
-		"Mail": "Mariano Ezequiel MANCABELLI <mariano_mancabelli@carrefour.com>"
+		"Celular": "223 5445998",
+		"Mail": "mariano_mancabelli@carrefour.com"
 	},
 	{
 		"Punto": "23",
 		"Nombre": "Adrogue",
 		"Jefe": "Federico Risso",
-		"Celular": "(+54) 9 11 3615-8858",
-		"Mail": "Federico Carlos RISSO <federico_risso@carrefour.com>"
+		"Celular": "11 36158858",
+		"Mail": "federico_risso@carrefour.com"
 	},
 	{
 		"Punto": "24",
 		"Nombre": "Cordoba Jardin",
 		"Jefe": " Bruno Soler",
-		"Celular": "(+54) 9 351 618-2949",
-		"Mail": "Bruno Enzo Soler <bruno_soler@carrefour.com>"
+		"Celular": "351 6182949",
+		"Mail": "bruno_soler@carrefour.com"
 	},
 	{
 		"Punto": "25",
 		"Nombre": "San Fernando",
 		"Jefe": "Hernan Inzaurralde",
-		"Celular": "(+54) 9 116539-6903",
-		"Mail": "Hernan INZAURRALDE <hernan_inzaurralde@carrefour.com>"
+		"Celular": "1165396903",
+		"Mail": "hernan_inzaurralde@carrefour.com"
 	},
 	{
 		"Punto": "26",
 		"Nombre": "Warnes",
 		"Jefe": "Hector Villar",
-		"Celular": "(+54) 9 11 6165-5874",
-		"Mail": "Hector Federico VILLAR <hector_federico_villar@carrefour.com>"
+		"Celular": "11 61655874",
+		"Mail": "hector_federico_villar@carrefour.com"
 	},
 	{
 		"Punto": "28",
 		"Nombre": "Pilar",
 		"Jefe": "Walter Gabrunski",
-		"Celular": "(+54) 9 11 5479-4443",
-		"Mail": "Walter Valentin GABRUNSKI <walter_gabrunski@carrefour.com>"
+		"Celular": "11 54794443",
+		"Mail": walter_gabrunski@carrefour.com"
 	},
 	{
 		"Punto": "29",
 		"Nombre": "Mendoza Azul",
 		"Jefe": "Veronica Gomez",
-		"Celular": "(+54) 9 261 615-7949",
-		"Mail": "Veronica Lourdes GOMEZ <veronica_lourdes_gomez@carrefour.com>"
+		"Celular": "261 6157949",
+		"Mail": "veronica_lourdes_gomez@carrefour.com"
 	},
 	{
 		"Punto": "30",
 		"Nombre": "Mataderos",
 		"Jefe": "Mario Albornoz",
-		"Celular": "(+54) 9 11 5468-7437",
-		"Mail": "Mario Ramon ALBORNOZ <mario_ramon_albornoz@carrefour.com>"
+		"Celular": "11 54687437",
+		"Mail": "mario_ramon_albornoz@carrefour.com"
 	},
 	{
 		"Punto": "31",
 		"Nombre": "Tandil",
 		"Jefe": "Sabrina Hidalgo",
-		"Celular": "(+54) 9 223 438-8581",
-		"Mail": "Sabrina Natalia HIDALGO <sabrina_hidalgo@carrefour.com>"
+		"Celular": "223 4388581",
+		"Mail": "sabrina_hidalgo@carrefour.com"
 	},
 	{
 		"Punto": "32",
 		"Nombre": "Rosario Centro",
 		"Jefe": "Natalia Ferrari",
-		"Celular": "(+54) 9 341 627-3719",
-		"Mail": "Natalia Andrea FERRARI <natalia_ferrari@carrefour.com>"
+		"Celular": "341 6273719",
+		"Mail": "natalia_ferrari@carrefour.com"
 	},
 	{
 		"Punto": "33",
 		"Nombre": "Rosario Sur",
 		"Jefe": "Walter Deprinzio",
-		"Celular": "(+54) 9 341 321-8486",
-		"Mail": "Walter DEPRINZIO <walter_deprinzio@carrefour.com>"
+		"Celular": "341 3218486",
+		"Mail": "walter_deprinzio@carrefour.com"
 	},
 	{
 		"Punto": "36",
 		"Nombre": "Ituzaingo",
 		"Jefe": "Cristina Sonia Fosati",
-		"Celular": "(+54) 9 11 6707-5465",
-		"Mail": "Cristina Sonia Mabel FOSATI <cristinasonia_fosati@carrefour.com>"
+		"Celular": "11 67075465",
+		"Mail": "cristinasonia_fosati@carrefour.com"
 	},
 	{
 		"Punto": "40",
 		"Nombre": "Temperley",
 		"Jefe": "Mariano German Muñoz",
-		"Celular": "(+54) 9 11 6228-3920",
-		"Mail": "Mariano German MUNOZ <mariano_munoz@carrefour.com>"
+		"Celular": "11 62283920",
+		"Mail": "mariano_munoz@carrefour.com"
 	},
 	{
 		"Punto": "41",
 		"Nombre": "Rosario Village",
 		"Jefe": "Fer Delpino",
-		"Celular": "(+54) 9 341 391-7139",
-		"Mail": "Fer DELPINO <maria_delpino@carrefour.com>"
+		"Celular": "341 3917139",
+		"Mail": "maria_delpino@carrefour.com"
 	},
 	{
 		"Punto": "42",
 		"Nombre": "Merlo",
 		"Jefe": "Gonzalo Medialdea",
-		"Celular": "(+54) 9 11 6849-5157",
-		"Mail": "Gonzalo MEDIALDEA <gonzalo_medialdea@carrefour.com>"
+		"Celular": "11 68495157",
+		"Mail": "gonzalo_medialdea@carrefour.com"
 	},
 	{
 		"Punto": "44",
 		"Nombre": "Resistencia II",
 		"Jefe": "Roxana Sanabria",
-		"Celular": "+54 9 362 470-0080",
-		"Mail": "mailto:roxana_sanabria@carrefour.com"
+		"Celular": "+54 9 362 4700080",
+		"Mail": "roxana_sanabria@carrefour.com"
 	},
 	{
 		"Punto": "45",
 		"Nombre": "Hiper Trelew III",
 		"Jefe": "Marisa Jimenez",
-		"Celular": "(+54) 9 280 485-7130",
-		"Mail": "Marisa Jimenez <marisa_jimenez@carrefour.com>"
+		"Celular": "280 4857130",
+		"Mail": "marisa_jimenez@carrefour.com"
 	},
 	{
 		"Punto": "46",
 		"Nombre": "Tucuman III",
 		"Jefe": "Diego Salinas",
-		"Celular": "(+54) 9 381 574-9754",
-		"Mail": "Diego Miguel Angel SALINAS <diego_salinas@carrefour.com>"
+		"Celular": "381 5749754",
+		"Mail": "diego_salinas@carrefour.com"
 	},
 	{
 		"Punto": "47",
 		"Nombre": "Martin Coronado",
 		"Jefe": "Maria Ines Hernandez",
-		"Celular": "(+54) 9 11 3583-2907",
-		"Mail": "Maria Ines HERNANDEZ <maria_ines_hernandez@carrefour.com>"
+		"Celular": "11 35832907",
+		"Mail": "maria_ines_hernandez@carrefour.com"
 	},
 	{
 		"Punto": "48",
 		"Nombre": "Rio Gallegos II",
 		"Jefe": "Iris Parede Gallardo",
-		"Celular": "(+54) 9 2966 67-6031 / (+54) 9 2966 56-2084",
+		"Celular": "2966 676031 / 2966 562084",
 		"Mail": "iris_paredes@carrefour.com"
 	},
 	{
 		"Punto": "49",
 		"Nombre": "Florencio Varela",
 		"Jefe": "Julio Mauri",
-		"Celular": "(+54) 9 11 3226-1642",
-		"Mail": "Julio Carlos MAURI <julio_mauri@carrefour.com>"
+		"Celular": "11 32261642",
+		"Mail": "julio_mauri@carrefour.com"
 	},
 	{
 		"Punto": "50",
 		"Nombre": "Recta Martinoli",
 		"Jefe": "Ana Fondevilla",
-		"Celular": "(+54) 9 351 646-6013",
-		"Mail": "Ana FONDEVILA <ana_fondevila@carrefour.com>"
+		"Celular": "351 6466013",
+		"Mail": "ana_fondevila@carrefour.com"
 	},
 	{
 		"Punto": "51",
 		"Nombre": "Nordelta",
 		"Jefe": "Daniel Badano",
-		"Celular": "(+54) 9 11 5742-0997",
-		"Mail": "Daniel BADANO <daniel_badano@carrefour.com>"
+		"Celular": "11 57420997",
+		"Mail": "daniel_badano@carrefour.com"
 	},
 	{
 		"Punto": "52",
 		"Nombre": "Banfield",
 		"Jefe": "Laura Marins",
-		"Celular": "(+54) 9 11 6004-2924",
-		"Mail": "Laura MARINS <laura_marins@carrefour.com>"
+		"Celular": "11 60042924",
+		"Mail": "laura_marins@carrefour.com"
 	},
 	{
 		"Punto": "53",
 		"Nombre": "Neuquen II",
 		"Jefe": "Eduardo Esteban Martinez",
-		"Celular": "(+54) 9 299 626-9491",
+		"Celular": "299 6269491",
 		"Mail": "eduardo_esteban_martinez@carrefour.com"
 	},
 	{
 		"Punto": "54",
 		"Nombre": "Villa Allende (CBA)",
 		"Jefe": "Jose Romano",
-		"Celular": "(+54) 9 3516 651248",
+		"Celular": "3516 651248",
 		"Mail": "jose_romano@carrefour.com"
 	},
 	{
 		"Punto": "55",
 		"Nombre": "Formosa  II",
 		"Jefe": "Orlando Ramon Caceres",
-		"Celular": "(+54) 9 370 451-3093",
-		"Mail": "Orlando Ramon Caceres <orlando_ramon_caceres@carrefour.com>"
+		"Celular": "370 4513093",
+		"Mail": "orlando_ramon_caceres@carrefour.com"
 	},
 	{
 		"Punto": "56",
 		"Nombre": "Glew",
 		"Jefe": "Lorena Roldán",
-		"Celular": "(+54) 9 11 5151628",
+		"Celular": "11 5151628",
 		"Mail": "lorena_roladan@carrefour.com"
 	},
 	{
 		"Punto": "57",
 		"Nombre": "Tandil II",
 		"Jefe": "Julio Silva",
-		"Celular": "(+54) 9 249 463-3732",
-		"Mail": "Julio Cesar SILVA <julio_cesar_silva@carrefour.com>"
+		"Celular": "249 4633732",
+		"Mail": "julio_cesar_silva@carrefour.com"
 	},
 	{
 		"Punto": "58",
 		"Nombre": "Balcarce",
 		"Jefe": "Sergio Antonelli",
-		"Celular": "(+54) 9 223 684-1594",
-		"Mail": "Sergio Antonelli <sergio_antonelli@carrefour.com>"
+		"Celular": "223 6841594",
+		"Mail": "sergio_antonelli@carrefour.com"
 	},
 	{
 		"Punto": "63",
 		"Nombre": "Caleta Olivia",
 		"Jefe": "Victor Reyes",
-		"Celular": "(+54) 9 11 2739-2871",
+		"Celular": "11 27392871",
 		"Mail": "victor_reyes@carrefour.com"
 	},
 	{
 		"Punto": "112",
 		"Nombre": "Salta",
 		"Jefe": "Fabian Tarifa",
-		"Celular": "(+54) 9 3876 00-9729",
-		"Mail": "Jose Fabian TARIFA <fabian_tarifa@carrefour.com>"
+		"Celular": "3876 009729",
+		"Mail": "fabian_tarifa@carrefour.com"
 	},
 	{
 		"Punto": "123",
 		"Nombre": "San Juan",
 		"Jefe": "David Orlando Herrera",
-		"Celular": "(+54) 9 264 548-0656",
-		"Mail": "David HERRERA <david_herrera@carrefour.com>"
+		"Celular": "264 5480656",
+		"Mail": "david_herrera@carrefour.com"
 	},
 	{
 		"Punto": "136",
 		"Nombre": "General Roca",
 		"Jefe": "Marcelo Quesada",
-		"Celular": "(+54) 9 2984 750700",
+		"Celular": "2984 750700",
 		"Mail": "marcelo_quesada@carrefour.com"
 	},
 	{
 		"Punto": "139",
 		"Nombre": "Olavarria",
 		"Jefe": "Juan NEUVILLE",
-		"Celular": "(+54) 9 2284 643791",
+		"Celular": "2284 643791",
 		"Mail": "federico_buten@carrefour.com"
 	},
 	{
 		"Punto": "142",
 		"Nombre": "Rio Grande I",
 		"Jefe": "Natalia Artazar",
-		"Celular": "(+54) 9 2964 525472",
-		"Mail": "Natalia ARTAZA <natalia_artaza@carrefour.com>"
+		"Celular": "2964 525472",
+		"Mail": "natalia_artaza@carrefour.com"
 	},
 	{
 		"Punto": "147",
 		"Nombre": "Santa Rosa",
 		"Jefe": " Horacio Jacobo",
-		"Celular": "(+54) 9 11 6655-8309",
+		"Celular": "11 66558309",
 		"Mail": "horacio_jacobo@carrefour.com"
 	},
 	{
 		"Punto": "149",
 		"Nombre": "Bariloche",
 		"Jefe": "Carlos Alberto Ruiz",
-		"Celular": "(+54) 9 294 463-5567",
+		"Celular": "294 4635567",
 		"Mail": "carlos_alberto_ruiz@carrefour.com"
 	},
 	{
 		"Punto": "156",
 		"Nombre": "San Nicolas",
 		"Jefe": "Daniel Avetta",
-		"Celular": "(+54) 9 11 3692-0093",
-		"Mail": "Daniel Avetta <daniel_avetta@carrefour.com>"
+		"Celular": "11 36920093",
+		"Mail": "daniel_avetta@carrefour.com"
 	},
 	{
 		"Punto": "157",
 		"Nombre": "Neuquen",
 		"Jefe": "Pedro Gerardo Diaz",
-		"Celular": "(+54) 9 298 465-4318",
+		"Celular": "298 4654318",
 		"Mail": "pedro_gerardo_diaz@carrefour.com"
 	},
 	{
 		"Punto": "159",
 		"Nombre": "Corrientes",
 		"Jefe": "Alejandro Pereyra",
-		"Celular": "(+54) 9 379 13-5236",
+		"Celular": "379 135236",
 		"Mail": "Alejandro_pereyra@carrefour.com"
 	},
 	{
 		"Punto": "161",
 		"Nombre": "Ushuaia",
 		"Jefe": "Mario Aranda",
-		"Celular": "(+54) 9 11 3686-7895",
+		"Celular": "11 36867895",
 		"Mail": "mario_aranda@carrefour.com"
 	},
 	{
 		"Punto": "162",
 		"Nombre": "Trelew",
 		"Jefe": "Monica Rivero",
-		"Celular": "(+54) 9 280 459-9221",
-		"Mail": " <monica_rivero@carrefour.com>"
+		"Celular": "280 4599221",
+		"Mail": "monica_rivero@carrefour.com"
 	},
 	{
 		"Punto": "167",
 		"Nombre": "Jujuy",
 		"Jefe": "Ruben Baltazar Suruguay",
-		"Celular": "(+54) 9 388 587-2938",
-		"Mail": "Ruben SURUGUAY <ruben_suruguay@carrefour.com>"
+		"Celular": "388 5872938",
+		"Mail": "ruben_suruguay@carrefour.com"
 	},
 	{
 		"Punto": "171",
 		"Nombre": "Salta",
 		"Jefe": "Carlos Toscano",
-		"Celular": "(+54) 9 387 507-7336",
-		"Mail": "Carlos Gabriel TOSCANO <carlos_toscano@carrefour.com>"
+		"Celular": "3875077336",
+		"Mail": "carlos_toscano@carrefour.com"
 	},
 	{
 		"Punto": "175",
 		"Nombre": "Salta",
 		"Jefe": "Juan Domingo GABRIZ",
-		"Celular": "+54 9 3876 35-2691",
+		"Celular": "3876352691",
 		"Mail": "juan_domingo_grabiz@carrefour.com"
 	},
 	{
 		"Punto": "178",
 		"Nombre": "Catamarca",
 		"Jefe": " Luis Alberto Vergara",
-		"Celular": "(+54) 9 383 464-4722",
-		"Mail": "Luis A VERGARA <luis_a_vergara@carrefour.com>"
+		"Celular": "383 4644722",
+		"Mail": "luis_a_vergara@carrefour.com"
 	},
 	{
 		"Punto": "179",
 		"Nombre": "Puerto Madryn 2",
 		"Jefe": "Paola Ledesma",
-		"Celular": "(+54) 9 280 430-3305",
+		"Celular": "280 4303305",
 		"Mail": "paola_noelia_ledesma@carrefour.com"
 	},
 	{
 		"Punto": "180",
 		"Nombre": "Rio Grande 2",
 		"Jefe": "Nadia Gomez",
-		"Celular": "(+54) 9 2964 46-5308",
+		"Celular": "2964 465308",
 		"Mail": "Nadia_gomez@carrefour.com"
 	},
 	{
 		"Punto": "183",
 		"Nombre": "Maschwitz",
 		"Jefe": "Patricio Bustamante",
-		"Celular": "(+54) 9 11 4089-6027",
-		"Mail": "Patricio BUSTAMANTE <patricio_bustamante@carrefour.com>"
+		"Celular": "11 40896027",
+		"Mail": "patricio_bustamante@carrefour.com"
 	},
 	{
 		"Punto": "204",
 		"Nombre": "Olivos",
 		"Jefe": "Cesar Bustos",
-		"Celular": "(+54) 9 11 5495-1089",
+		"Celular": "11 54951089",
 		"Mail": "cesar_bustos@carrefour.com"
 	},
 	{
 		"Punto": "210",
 		"Nombre": "Zarate",
 		"Jefe": "Claudia Juarez",
-		"Celular": "(+54) 9 3489 55-9293",
-		"Mail": "Claudia Liliana Juarez <claudia_juarez@carrefour.com>"
+		"Celular": "3489 559293",
+		"Mail": "claudia_juarez@carrefour.com"
 	},
 	{
 		"Punto": "214",
 		"Nombre": "Devoto",
 		"Jefe": "Pablo Dorosshnko",
-		"Celular": "(+54) 9 11 3681-0679",
-		"Mail": "Alberto Pablo DOROSSHNKO <alberto_dorosshnko@carrefour.com>"
+		"Celular": "11 36810679",
+		"Mail": "alberto_dorosshnko@carrefour.com"
 	},
 	{
 		"Punto": "217",
 		"Nombre": "San Miguel",
 		"Jefe": "Nestor Altamiranda",
-		"Celular": "(+54) 9 11 3133-5339",
-		"Mail": "Nestor Altamiranda <nestor_altamiranda@carrefour.com>"
+		"Celular": "11 31335339",
+		"Mail": "nestor_altamiranda@carrefour.com"
 	},
 	{
 		"Punto": "219",
 		"Nombre": "Caballito",
 		"Jefe": "Sebastian Romano",
-		"Celular": "(+54) 9 11 3505-1607",
+		"Celular": "11 35051607",
 		"Mail": "sebastian_romano@carrefour.com"
 	},
 	{
 		"Punto": "220",
 		"Nombre": "Villa Urquiza",
 		"Jefe": "Rodrigo Soraire",
-		"Celular": "(+54) 11 6754-0140",
+		"Celular": "(+54) 11 67540140",
 		"Mail": "rodrigo_soraire@carrefour.com"
 	},
 	{
 		"Punto": "221",
 		"Nombre": "Tigre",
 		"Jefe": "Rosana Saettone (Jfe Cajas)",
-		"Celular": "(+54) 9 11 4400-5972",
-		"Mail": "Rosana SAETTONE <rosana_saettone@carrefour.com>"
+		"Celular": "11 44005972",
+		"Mail": "rosana_saettone@carrefour.com"
 	},
 	{
 		"Punto": "227",
 		"Nombre": "Bernal",
 		"Jefe": "Carola Carbajal (Encargada)",
-		"Celular": "(+54) 9 11 3847-5717",
-		"Mail": "Carola CARBAJAL <carola_carbajal@carrefour.com>"
+		"Celular": "11 38475717",
+		"Mail": "carola_carbajal@carrefour.com"
 	},
 	{
 		"Punto": "229",
 		"Nombre": "Pergamino",
 		"Jefe": "Martin Alberto Paredes",
-		"Celular": "(+54) 9 2477 489534",
+		"Celular": "2477 489534",
 		"Mail": "martin_paredes@carrefour.com "
 	},
 	{
 		"Punto": "231",
 		"Nombre": "Lomas de Zamora",
 		"Jefe": "Rolando Zacarías",
-		"Celular": "(+54) 9 11 3649 7922",
+		"Celular": "11 3649 7922",
 		"Mail": "rolando_zacarias@carrefour.com"
 	},
 	{
 		"Punto": "232",
 		"Nombre": "Campana",
 		"Jefe": "Sandra Alfonso",
-		"Celular": "(+54) 9 3489 63-4885",
-		"Mail": "Sandra Daniela ALFONSO <sandra_alfonso@carrefour.com>"
+		"Celular": "3489 634885",
+		"Mail": "sandra_alfonso@carrefour.com"
 	},
 	{
 		"Punto": "233",
 		"Nombre": "Concordia",
 		"Jefe": "Luis Luna",
-		"Celular": "(+54) 9 3454 01-4152",
+		"Celular": "3454 014152",
 		"Mail": "luis_alberto_luna@carrefour.com "
 	},
 	{
 		"Punto": "234",
 		"Nombre": "Don Torcuato",
 		"Jefe": "Lilian Da cunha",
-		"Celular": "(+54) 9 11 5491-9332",
-		"Mail": "Liliam Da Cunha <liliam_da@carrefour.com>"
+		"Celular": "11 54919332",
+		"Mail": "liliam_da@carrefour.com"
 	},
 	{
 		"Punto": "235",
 		"Nombre": "Villa Mercedes",
 		"Jefe": "Gerardo Arocena",
-		"Celular": "(+54) 9 2657 54-7019",
-		"Mail": "Gerardo Arocena <gerardo_arocena@carrefour.com>"
+		"Celular": "2657 547019",
+		"Mail": "gerardo_arocena@carrefour.com"
 	},
 	{
 		"Punto": "239",
 		"Nombre": "Pacheco",
 		"Jefe": "Marcos Fernandez",
-		"Celular": "(+54) 9 11 6565-6313",
-		"Mail": "<marcos_ariel_fernandez@carrefour.com>"
+		"Celular": "11 65656313",
+		"Mail": "marcos_ariel_fernandez@carrefour.com"
 	},
 	{
 		"Punto": "240",
 		"Nombre": "Gualeguaychu",
 		"Jefe": "Analia Tello",
-		"Celular": "(+54) 9 3446 58-7941",
+		"Celular": "3446 587941",
 		"Mail": "analia_tello@carrefour.com"
 	},
 	{
 		"Punto": "241",
 		"Nombre": "Lujan",
 		"Jefe": "Patricio Pauletti",
-		"Celular": "(+54) 9 11 4973-3213",
+		"Celular": "11 49733213",
 		"Mail": "patricio_pauleta@carrefour.com"
 	},
 	{
 		"Punto": "243",
 		"Nombre": "Parana",
 		"Jefe": "Griselda Vicuña",
-		"Celular": "(+54) 9 343 510-7027",
-		"Mail": "Griselda VICUNA <griselda_vicuna@carrefour.com>"
+		"Celular": "343 5107027",
+		"Mail": "griselda_vicuna@carrefour.com"
 	},
 	{
 		"Punto": "244",
 		"Nombre": "Parana",
 		"Jefe": "Paola Alejandra Sosa",
-		"Celular": "(+54) 9 343 462-3981",
-		"Mail": "Paola Alejandra SOSA <paola_alejandra_sosa@carrefour.com>"
+		"Celular": "343 4623981",
+		"Mail": "paola_alejandra_sosa@carrefour.com"
 	},
 	{
 		"Punto": "244",
 		"Nombre": "Parana",
 		"Jefe": "Cristian Villalba",
-		"Celular": "(+54) 9 11 6894-1721",
+		"Celular": "11 68941721",
 		"Mail": "cristhian_villalba@carrefour.com"
 	},
 	{
 		"Punto": "259",
 		"Nombre": "Venado Tuerto",
 		"Jefe": "Laura Suarez",
-		"Celular": "(+54) 9 3462 67-2419",
-		"Mail": "Laura SUAREZ <laura_suarez@carrefour.com>"
+		"Celular": "3462 672419",
+		"Mail": "laura_suarez@carrefour.com"
 	},
 	{
 		"Punto": "268",
 		"Nombre": "Rosario Centro",
 		"Jefe": "Javier Cunzolo",
-		"Celular": "(+54) 9 341 622-5790",
-		"Mail": "Javier Francisco Cunzolo <javier_cunzolo@carrefour.com>"
+		"Celular": "341 6225790",
+		"Mail": "javier_cunzolo@carrefour.com"
 	},
 	{
 		"Punto": "292",
 		"Nombre": "Comodoro (Polonia)",
 		"Jefe": "Laura Barraza",
-		"Celular": "(+54) 9 297 433-9132",
-		"Mail": "Maria Laura BARRAZA <maria_laura_barraza@carrefour.com>"
+		"Celular": "297 4339132",
+		"Mail": "maria_laura_barraza@carrefour.com"
 	},
 	{
 		"Punto": "294",
 		"Nombre": "Ituzaingo II",
 		"Jefe": "Julieta Chazarreta",
-		"Celular": "(+54) 9 11 2243-0796",
-		"Mail": "Julieta Esther CHAZARRETA <julieta_chazarreta@carrefour.com>"
+		"Celular": "11 22430796",
+		"Mail": "julieta_chazarreta@carrefour.com"
 	},
 	{
 		"Punto": "297",
 		"Nombre": "Gral Rodriguez",
 		"Jefe": "Fatima Altamirano",
-		"Celular": "(+54) 9 11 6696-2259",
+		"Celular": "11 66962259",
 		"Mail": "fatima_altamirano@carrefour.com"
 	}
 ]

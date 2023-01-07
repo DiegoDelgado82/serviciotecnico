@@ -1,10 +1,19 @@
 [{
+		"Punto": "Seleccionar",
+		"Nombre": " tienda",
+		"Jefe": "-",
+		"Celular": "-",
+		"Mail": "-"
+	},
+ 
+ {
 		"Punto": "1",
 		"Nombre": "San Isidro",
 		"Jefe": "Leonardo Pallito / Veronica Rodriguez",
 		"Celular": "1141603994",
 		"Mail": "leonardo_pallitto@carrefour.com"
 	},
+ 
 	{
 		"Punto": "2",
 		"Nombre": "Vte Lopez",
